@@ -4,7 +4,7 @@ import { pay } from './dummyTrusted'
 
 const Trusted = () => {
   return (
-    <div>
+    <div className='trusted'>
         <div>
             <h1>
                 Trusted by 200,000+ businesses

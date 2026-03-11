@@ -5,6 +5,11 @@ import Body from './Component/Body'
 import Project from './Component/Project'
 import Trusted from './Component/Trusted'
 import Power from './Component/Power'
+import Accept from './Component/Accept'
+import Partners from './Component/Partners'
+import Footer1 from './Component/Footer1'
+import Footer2 from './Component/Footer2'
+// import OnclickTest from './Component/OnclickTest'
 
 function App() {
 
@@ -16,6 +21,11 @@ function App() {
         <Project/>
         <Trusted/>
         <Power/>
+        <Partners/>
+        <Accept/>
+        <Footer1/>
+        <Footer2/>
+        {/* <OnclickTest/> */}
       </div>
       
   )

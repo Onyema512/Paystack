@@ -7,12 +7,15 @@
   height: 90vh;
   background-color: whitesmoke
 }
+/* .modern{
+  background-color: red;
+} */
 .modern h1 {
   font-size: 3rem;
   font-weight: 700;
   line-height: 1.2;
   color: black;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .modern p {
