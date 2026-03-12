@@ -37,7 +37,10 @@
   color: mediumseagreen;
   cursor: pointer;
 }
-.trusted p{
+/* .hero_trusted{
+margin-top: 40px;
+} */
+.hero_trusted p{
   font-size: 15px;
   margin-top: 90px;
   font-size: bold;
@@ -46,14 +49,14 @@
   text-align: left;
 }
 
-.trusted_logos{
+.hero_trusted_logos{
   display: flex;
   align-items: center;
   gap: 35px;
   flex-wrap: wrap;
 }
 
-.trusted_logos img{
+.hero_trusted_logos img{
   height: 30px;
   font-size: bold;
 }

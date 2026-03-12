@@ -11,6 +11,8 @@
 }
 
 .trusted h1{
+    background-color: aqua;
+    color: black;
     font-size: 32px;
     margin-bottom: 10px;
     text-align: left;

@@ -27,12 +27,12 @@ const Hero = () => {
             cursor: "pointer"}}/>
              <span className="contactSales">or Contact Sales</span>
       </div>
-       <div className="trusted">
+       <div className="hero_trusted">
           <p>
             Trusted by over 200,000 businesses
           </p>
 
-          <div className="trusted_logos">
+          <div className="hero_trusted_logos">
             <img src="https://assets.paystack.com/assets/img/logos/merchants/Dominos-Plain.svg" alt="Dominos"/>
             <img src="https://assets.paystack.com/assets/img/logos/merchants/mtn-group-grayscale.svg" alt="MTN"/>
             <img src="https://assets.paystack.com/assets/img/logos/merchants/Bolt-Stack-Blue_200304_153027.svg" alt="Bolt"/>
